@@ -1,0 +1,5 @@
+# Core functionality - changes here should be rare!
+/app/Dockerfile    @heinhtetsoe2000
+/db/Dockerfile     @heinhtetsoe2000
+/redis/Dockerfile  @heinhtetsoe2000
+docker-compose.yml @heinhtetsoe2000
